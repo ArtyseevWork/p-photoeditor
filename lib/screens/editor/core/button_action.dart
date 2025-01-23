@@ -1,0 +1,1 @@
+typedef ButtonAction = void Function();
